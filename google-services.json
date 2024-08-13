@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706587836615",
+    "project_id": "mymentorbuddy-3e12b",
+    "storage_bucket": "mymentorbuddy-3e12b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706587836615:android:a7a9304e0941498c2b7ee2",
+        "android_client_info": {
+          "package_name": "com.example.mymentorbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjClwnFvv8nDzM3_dHPjLutKZWOD9aT8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
